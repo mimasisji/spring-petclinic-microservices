@@ -3,7 +3,7 @@ on: [push]
 
 env:
   AZURE_SUBSCRIPTION: f9f75a63-4045-41ee-8ad1-589a763fe201 # customize this
-  SPRING_CLOUD_SERVICE: azure-spring-cloud-petclinicdemo # customize this
+  SPRING_CLOUD_SERVICE: azure-spring-cloud-petclinicdemo # customize this modified
   KEYVAULT: kvpetclinic # customize this
   # ==== APPS ====:
   API_GATEWAY: api-gateway
